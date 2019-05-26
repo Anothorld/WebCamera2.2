@@ -1,0 +1,345 @@
+Get connection at:2018-11-18 17:23:46
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59290)>:6999
+Error occured at:2018-11-18 17:24:02
+ERROR CODE[1]
+socket broken
+Get connection at:2018-11-18 17:25:31
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59398)>:6999
+Error occured at:2018-11-18 17:25:36
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:26:37
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59410)>:6999
+Error occured at:2018-11-18 17:26:59
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:28:22
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59420)>:6999
+Error occured at:2018-11-18 17:28:22
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:29:43
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59444)>:6999
+Socket broken at:2018-11-18 17:29:49
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:29:52
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59450)>:6999
+Socket broken at:2018-11-18 17:29:52
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:30:36
+Socket info:<socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59464)>:6999
+Socket broken at:2018-11-18 17:30:36
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:32:02
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59480)>:6999
+Socket broken at:2018-11-18 17:32:05
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:32:08
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59488)>:6999
+Socket broken at:2018-11-18 17:32:08
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:33:19
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59506)>:6999
+Socket broken at:2018-11-18 17:33:22
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:33:25
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59512)>:6999
+Socket broken at:2018-11-18 17:33:25
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:33:32
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59518)>:6999
+Socket broken at:2018-11-18 17:33:32
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:33:41
+Socket info:<socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59530)>:6999
+Socket broken at:2018-11-18 17:33:41
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:34:46
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59550)>:6999
+Socket broken at:2018-11-18 17:34:50
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:34:53
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59560)>:6999
+Socket broken at:2018-11-18 17:34:53
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:36:45
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59572)>:6999
+Socket broken at:2018-11-18 17:36:45
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:36:51
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59582)>:6999
+Socket broken at:2018-11-18 17:36:54
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:36:59
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59588)>:6999
+Socket broken at:2018-11-18 17:37:09
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:37:27
+Socket info:<socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59596)>:6999
+Socket broken at:2018-11-18 17:37:32
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:38:42
+Socket info:<socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59604)>:6999
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:38:51
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59614)>:6999
+Socket broken at:2018-11-18 17:38:57
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:39:02
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59620)>:6999
+Socket broken at:2018-11-18 17:39:35
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:39:53
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59638)>:6999
+Socket broken at:2018-11-18 17:40:01
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:42:37
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59844)>:6999
+Socket broken at:2018-11-18 17:42:40
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:42:45
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59850)>:6999
+Socket broken at:2018-11-18 17:44:05
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:44:31
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59924)>:6999
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:45:09
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59934)>:6999
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:46:53
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59948)>:6999
+Socket broken at:2018-11-18 17:47:02
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 17:47:17
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 59960)>:6999
+Socket broken at:2018-11-18 18:22:24
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 18:28:55
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 60168)>:6999
+Socket broken at:2018-11-18 18:30:03
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 18:30:44
+Socket info:<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 60198)>:6999
+Socket broken at:2018-11-18 18:35:11
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 19:20:00
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 33138)>:6999
+Socket broken at:2018-11-18 19:20:04
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 19:20:42
+Socket info:<socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 33146)>:6999
+Socket broken at:2018-11-18 19:20:57
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 19:33:21
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 33204)>:6999
+Socket broken at:2018-11-18 19:33:27
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 19:34:06
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 33220)>:6999
+Socket broken at:2018-11-18 19:34:11
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/------------------------------------------------------/
+Get connection at:2018-11-18 19:42:30
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 33266)>:6999
+/------------------------------------------------------/
+Get connection at:2018-11-18 19:45:57
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 33326)>:6999
+Socket broken at:2018-11-18 19:46:04
+ERROR CODE[1]-Socket broken
+/------------------------------------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:07:43
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45322)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:10:51
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45352)>:6999
+Socket broken at:2018-11-27 21:12:07
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:12:54
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45370)>:6999
+Socket broken at:2018-11-27 21:13:57
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:19:25
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45632)>:6999
+Socket broken at:2018-11-27 21:19:25
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:19:47
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45684)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:23:26
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45702)>:6999
+Socket broken at:2018-11-27 21:27:04
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:29:26
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45734)>:6999
+Socket broken at:2018-11-27 21:31:20
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-27 21:33:31
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 45754)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 13:56:47
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48328)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 13:57:36
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48338)>:6999
+Socket broken at:2018-11-28 13:58:35
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-28 13:59:15
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48352)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:04:49
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48380)>:6999
+Socket broken at:2018-11-28 14:05:58
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:07:24
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48404)>:6999
+Socket broken at:2018-11-28 14:08:37
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:10:03
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48420)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:10:51
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48432)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:12:12
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48448)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:16:58
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48466)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:21:51
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48484)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:22:28
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48496)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:23:26
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48508)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:25:30
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48522)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:27:31
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48572)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:34:07
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48594)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:37:32
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48626)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:40:44
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48644)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:41:07
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48656)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:42:54
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48674)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:43:33
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48688)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:45:06
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48702)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:47:13
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48718)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:50:59
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48736)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:53:41
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48750)>:6999
+Socket broken at:2018-11-28 14:58:34
+ERROR CODE[1]-Socket broken
+/--------------------------END-------------------------/
+/-------------------------START------------------------/
+Get connection at:2018-11-28 14:59:44
+Socket info:<socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48834)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 15:17:18
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 48992)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 15:28:56
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 49350)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 15:41:30
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 49452)>:6999
+/-------------------------START------------------------/
+Get connection at:2018-11-28 15:48:37
+Socket info:<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.10.20.40', 6999), raddr=('10.10.20.40', 49940)>:6999

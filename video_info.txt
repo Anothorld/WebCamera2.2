@@ -1,0 +1,1314 @@
+Got connection from 10.10.20.40:51712
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 14:29:14
+Got connection from 10.10.20.40:52904
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:40:14
+Got connection from 10.10.20.40:53082
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:40:35
+10.10.20.40:53082 disconnected!
+Over connection time:2018-11-07 16:40:35
+*****************************************************
+Got connection from 10.10.20.40:53236
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:40:47
+10.10.20.40:53236 disconnected!
+Over connection time:2018-11-07 16:43:08
+*****************************************************
+Got connection from 10.10.20.40:53514
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:43:16
+10.10.20.40:53514 disconnected!
+Over connection time:2018-11-07 16:43:53
+*****************************************************
+Got connection from 10.10.20.40:53626
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:43:54
+10.10.20.40:53626 disconnected!
+Over connection time:2018-11-07 16:45:26
+*****************************************************
+Got connection from 10.10.20.40:53738
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:45:27
+10.10.20.40:53738 disconnected!
+Over connection time:2018-11-07 16:45:36
+*****************************************************
+Got connection from 10.10.20.40:53858
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:45:37
+10.10.20.40:53858 disconnected!
+Over connection time:2018-11-07 16:46:45
+*****************************************************
+Got connection from 10.10.20.40:53962
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:46:46
+10.10.20.40:53962 disconnected!
+Over connection time:2018-11-07 16:47:00
+*****************************************************
+Got connection from 10.10.20.40:54062
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:47:00
+10.10.20.40:54062 disconnected!
+Over connection time:2018-11-07 16:47:56
+*****************************************************
+Got connection from 10.10.20.40:54170
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:47:57
+10.10.20.40:54170 disconnected!
+Over connection time:2018-11-07 16:49:12
+*****************************************************
+Got connection from 10.10.20.40:54236
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:52:44
+10.10.20.40:54236 disconnected!
+Over connection time:2018-11-07 16:53:47
+*****************************************************
+Got connection from 10.10.20.40:54296
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:54:26
+Got connection from 10.10.20.40:54604
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 16:55:02
+10.10.20.40:54604 disconnected!
+Over connection time:2018-11-07 16:57:24
+*****************************************************
+Got connection from 10.10.20.40:54816
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:00:05
+10.10.20.40:54816 disconnected!
+Over connection time:2018-11-07 17:01:32
+*****************************************************
+Got connection from 10.10.20.40:54830
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:01:33
+10.10.20.40:54830 disconnected!
+Over connection time:2018-11-07 17:01:50
+*****************************************************
+Got connection from 10.10.20.40:54962
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:02:41
+10.10.20.40:54962 disconnected!
+Over connection time:2018-11-07 17:04:03
+*****************************************************
+Got connection from 10.10.20.40:54986
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:04:41
+10.10.20.40:54986 disconnected!
+Over connection time:2018-11-07 17:06:03
+*****************************************************
+Got connection from 10.10.20.40:55078
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:06:35
+10.10.20.40:55078 disconnected!
+Over connection time:2018-11-07 17:07:15
+*****************************************************
+Got connection from 10.10.20.40:55092
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:07:16
+10.10.20.40:55092 disconnected!
+Over connection time:2018-11-07 17:07:19
+*****************************************************
+Got connection from 10.10.20.40:55102
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:07:21
+10.10.20.40:55102 disconnected!
+Over connection time:2018-11-07 17:08:56
+*****************************************************
+Got connection from 10.10.20.40:55112
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:08:56
+10.10.20.40:55112 disconnected!
+Over connection time:2018-11-07 17:08:59
+*****************************************************
+Got connection from 10.10.20.40:55118
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:09:00
+10.10.20.40:55118 disconnected!
+Over connection time:2018-11-07 17:11:51
+*****************************************************
+Got connection from 10.10.20.40:55128
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:11:53
+10.10.20.40:55128 disconnected!
+Over connection time:2018-11-07 17:11:58
+*****************************************************
+Got connection from 10.10.20.40:55134
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:12:00
+10.10.20.40:55134 disconnected!
+Over connection time:2018-11-07 17:12:14
+*****************************************************
+Got connection from 10.10.20.40:55140
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:12:27
+10.10.20.40:55140 disconnected!
+Over connection time:2018-11-07 17:12:33
+*****************************************************
+Got connection from 10.10.20.40:55148
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:12:40
+10.10.20.40:55148 disconnected!
+Over connection time:2018-11-07 17:13:36
+*****************************************************
+Got connection from 10.10.20.40:55160
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:13:37
+10.10.20.40:55160 disconnected!
+Over connection time:2018-11-07 17:13:48
+*****************************************************
+Got connection from 10.10.20.40:55166
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:13:59
+10.10.20.40:55166 disconnected!
+Over connection time:2018-11-07 17:14:16
+*****************************************************
+Got connection from 10.10.20.40:55178
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:19:58
+10.10.20.40:55178 disconnected!
+Over connection time:2018-11-07 17:20:26
+*****************************************************
+Got connection from 10.10.20.40:55448
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:49:05
+10.10.20.40:55448 disconnected!
+Over connection time:2018-11-07 17:50:43
+*****************************************************
+Got connection from 10.10.20.40:55454
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:50:43
+10.10.20.40:55454 disconnected!
+Over connection time:2018-11-07 17:50:44
+*****************************************************
+Got connection from 10.10.20.40:55460
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:50:46
+10.10.20.40:55460 disconnected!
+Over connection time:2018-11-07 17:53:49
+*****************************************************
+Got connection from 10.10.20.40:55476
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:53:50
+10.10.20.40:55476 disconnected!
+Over connection time:2018-11-07 17:54:12
+*****************************************************
+Got connection from 10.10.20.40:55482
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:54:13
+10.10.20.40:55482 disconnected!
+Over connection time:2018-11-07 17:54:14
+*****************************************************
+Got connection from 10.10.20.40:55488
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:54:15
+10.10.20.40:55488 disconnected!
+Over connection time:2018-11-07 17:55:13
+*****************************************************
+Got connection from 10.10.20.40:55496
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 17:55:14
+10.10.20.40:55496 disconnected!
+Over connection time:2018-11-07 18:19:52
+*****************************************************
+Got connection from 10.10.20.40:55584
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:23:38
+10.10.20.40:55584 disconnected!
+Over connection time:2018-11-07 18:23:54
+*****************************************************
+Got connection from 10.10.20.40:55590
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:23:56
+10.10.20.40:55590 disconnected!
+Over connection time:2018-11-07 18:24:57
+*****************************************************
+Got connection from 10.10.20.40:55596
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:24:58
+10.10.20.40:55596 disconnected!
+Over connection time:2018-11-07 18:25:05
+*****************************************************
+Got connection from 10.10.20.40:55604
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:25:29
+10.10.20.40:55604 disconnected!
+Over connection time:2018-11-07 18:25:50
+*****************************************************
+Got connection from 10.10.20.40:55610
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:26:29
+10.10.20.40:55610 disconnected!
+Over connection time:2018-11-07 18:26:39
+*****************************************************
+Got connection from 10.10.20.40:55624
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:29:17
+10.10.20.40:55624 disconnected!
+Over connection time:2018-11-07 18:29:48
+*****************************************************
+Got connection from 10.10.20.40:55634
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:30:28
+10.10.20.40:55634 disconnected!
+Over connection time:2018-11-07 18:31:57
+*****************************************************
+Got connection from 10.10.20.40:56038
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 18:36:37
+10.10.20.40:56038 disconnected!
+Over connection time:2018-11-07 19:07:11
+*****************************************************
+Got connection from 10.10.20.40:56788
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:19:39
+10.10.20.40:56788 disconnected!
+Over connection time:2018-11-07 19:23:20
+*****************************************************
+Got connection from 10.10.20.40:56956
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:26:58
+10.10.20.40:56956 disconnected!
+Over connection time:2018-11-07 19:27:42
+*****************************************************
+Got connection from 10.10.20.40:57182
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:30:56
+Got connection from 10.10.20.40:57224
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:34:13
+Got connection from 10.10.20.40:57278
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:35:24
+Got connection from 10.10.20.40:57344
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:37:09
+Got connection from 10.10.20.40:57370
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:39:45
+Got connection from 10.10.20.40:57420
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:40:25
+Got connection from 10.10.20.40:57468
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:40:35
+10.10.20.40:57468 disconnected!
+Over connection time:2018-11-07 19:45:05
+*****************************************************
+Got connection from 10.10.20.40:57498
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:45:06
+10.10.20.40:57498 disconnected!
+Over connection time:2018-11-07 19:46:44
+*****************************************************
+Got connection from 10.10.20.40:57522
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:46:46
+Got connection from 10.10.20.40:57564
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:46:57
+10.10.20.40:57564 disconnected!
+Over connection time:2018-11-07 19:47:12
+*****************************************************
+Got connection from 10.10.20.40:57582
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:47:13
+10.10.20.40:57582 disconnected!
+Over connection time:2018-11-07 19:47:19
+*****************************************************
+Got connection from 10.10.20.40:57602
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:47:33
+10.10.20.40:57602 disconnected!
+Over connection time:2018-11-07 19:47:40
+*****************************************************
+Got connection from 10.10.20.40:57624
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:48:07
+10.10.20.40:57624 disconnected!
+Over connection time:2018-11-07 19:48:10
+*****************************************************
+Got connection from 10.10.20.40:57666
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:48:33
+10.10.20.40:57666 disconnected!
+Over connection time:2018-11-07 19:49:16
+*****************************************************
+Got connection from 10.10.20.40:57684
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:49:17
+10.10.20.40:57684 disconnected!
+Over connection time:2018-11-07 19:49:19
+*****************************************************
+Got connection from 10.10.20.40:57702
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:49:33
+10.10.20.40:57702 disconnected!
+Over connection time:2018-11-07 19:50:22
+*****************************************************
+Got connection from 10.10.20.40:57720
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:50:24
+10.10.20.40:57720 disconnected!
+Over connection time:2018-11-07 19:52:57
+*****************************************************
+Got connection from 10.10.20.40:57740
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:52:58
+10.10.20.40:57740 disconnected!
+Over connection time:2018-11-07 19:54:56
+*****************************************************
+Got connection from 10.10.20.40:58052
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 19:57:03
+10.10.20.40:58052 disconnected!
+Over connection time:2018-11-07 20:04:00
+*****************************************************
+Got connection from 10.10.20.40:58110
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:04:04
+Got connection from 10.10.20.40:58154
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:04:13
+10.10.20.40:58154 disconnected!
+Over connection time:2018-11-07 20:04:45
+*****************************************************
+Got connection from 10.10.20.40:58160
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:04:54
+10.10.20.40:58160 disconnected!
+Over connection time:2018-11-07 20:04:59
+*****************************************************
+Got connection from 10.10.20.40:58174
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:05:29
+10.10.20.40:58174 disconnected!
+Over connection time:2018-11-07 20:05:48
+*****************************************************
+Got connection from 10.10.20.40:58180
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:05:49
+10.10.20.40:58180 disconnected!
+Over connection time:2018-11-07 20:05:51
+*****************************************************
+Got connection from 10.10.20.40:58186
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:05:52
+10.10.20.40:58186 disconnected!
+Over connection time:2018-11-07 20:05:57
+*****************************************************
+Got connection from 10.10.20.40:58192
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:05:58
+10.10.20.40:58192 disconnected!
+Over connection time:2018-11-07 20:05:59
+*****************************************************
+Got connection from 10.10.20.40:58198
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:06:02
+10.10.20.40:58198 disconnected!
+Over connection time:2018-11-07 20:06:14
+*****************************************************
+Got connection from 10.10.20.40:58204
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:06:18
+10.10.20.40:58204 disconnected!
+Over connection time:2018-11-07 20:06:43
+*****************************************************
+Got connection from 10.10.20.40:58210
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:06:45
+10.10.20.40:58210 disconnected!
+Over connection time:2018-11-07 20:06:46
+*****************************************************
+Got connection from 10.10.20.40:58220
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:07:40
+10.10.20.40:58220 disconnected!
+Over connection time:2018-11-07 20:07:54
+*****************************************************
+Got connection from 10.10.20.40:58244
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:07:57
+Got connection from 10.10.20.40:58306
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:08:19
+10.10.20.40:58306 disconnected!
+Over connection time:2018-11-07 20:09:08
+*****************************************************
+Got connection from 10.10.20.40:58324
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:09:12
+10.10.20.40:58324 disconnected!
+Over connection time:2018-11-07 20:09:40
+*****************************************************
+Got connection from 10.10.20.40:58336
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:09:40
+10.10.20.40:58336 disconnected!
+Over connection time:2018-11-07 20:09:42
+*****************************************************
+Got connection from 10.10.20.40:58342
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:09:43
+10.10.20.40:58342 disconnected!
+Over connection time:2018-11-07 20:10:24
+*****************************************************
+Got connection from 10.10.20.40:58350
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:10:24
+10.10.20.40:58350 disconnected!
+Over connection time:2018-11-07 20:10:25
+*****************************************************
+Got connection from 10.10.20.40:58356
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:10:26
+10.10.20.40:58356 disconnected!
+Over connection time:2018-11-07 20:12:33
+*****************************************************
+Got connection from 10.10.20.40:58514
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:12:34
+10.10.20.40:58514 disconnected!
+Over connection time:2018-11-07 20:12:36
+*****************************************************
+Got connection from 10.10.20.40:58524
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:13:11
+10.10.20.40:58524 disconnected!
+Over connection time:2018-11-07 20:13:40
+*****************************************************
+Got connection from 10.10.20.40:58532
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:13:41
+10.10.20.40:58532 disconnected!
+Over connection time:2018-11-07 20:13:48
+*****************************************************
+Got connection from 10.10.20.40:58538
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:13:50
+10.10.20.40:58538 disconnected!
+Over connection time:2018-11-07 20:16:44
+*****************************************************
+Got connection from 10.10.20.40:58556
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:17:46
+10.10.20.40:58556 disconnected!
+Over connection time:2018-11-07 20:17:52
+*****************************************************
+Got connection from 10.10.20.40:58562
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:17:57
+10.10.20.40:58562 disconnected!
+Over connection time:2018-11-07 20:18:05
+*****************************************************
+Got connection from 10.10.20.40:58568
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:18:09
+10.10.20.40:58568 disconnected!
+Over connection time:2018-11-07 20:18:32
+*****************************************************
+Got connection from 10.10.20.40:58628
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:21:01
+10.10.20.40:58628 disconnected!
+Over connection time:2018-11-07 20:21:06
+*****************************************************
+Got connection from 10.10.20.40:58634
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:21:07
+10.10.20.40:58634 disconnected!
+Over connection time:2018-11-07 20:23:55
+*****************************************************
+Got connection from 10.10.20.40:58878
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:23:55
+10.10.20.40:58878 disconnected!
+Over connection time:2018-11-07 20:23:59
+*****************************************************
+Got connection from 10.10.20.40:58884
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:24:01
+10.10.20.40:58884 disconnected!
+Over connection time:2018-11-07 20:25:29
+*****************************************************
+Got connection from 10.10.20.40:58904
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:25:29
+10.10.20.40:58904 disconnected!
+Over connection time:2018-11-07 20:25:30
+*****************************************************
+Got connection from 10.10.20.40:58910
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:25:32
+10.10.20.40:58910 disconnected!
+Over connection time:2018-11-07 20:35:35
+*****************************************************
+Got connection from 10.10.20.40:59266
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:35:37
+10.10.20.40:59266 disconnected!
+Over connection time:2018-11-07 20:37:21
+*****************************************************
+Got connection from 10.10.20.40:59272
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:37:23
+10.10.20.40:59272 disconnected!
+Over connection time:2018-11-07 20:38:46
+*****************************************************
+Got connection from 10.10.20.40:59280
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:38:47
+10.10.20.40:59280 disconnected!
+Over connection time:2018-11-07 20:39:12
+*****************************************************
+Got connection from 10.10.20.40:59286
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:39:12
+10.10.20.40:59286 disconnected!
+Over connection time:2018-11-07 20:39:13
+*****************************************************
+Got connection from 10.10.20.40:59292
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:39:15
+10.10.20.40:59292 disconnected!
+Over connection time:2018-11-07 20:40:26
+*****************************************************
+Got connection from 10.10.20.40:59298
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:40:28
+10.10.20.40:59298 disconnected!
+Over connection time:2018-11-07 20:48:12
+*****************************************************
+Got connection from 10.10.20.40:59694
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:48:14
+10.10.20.40:59694 disconnected!
+Over connection time:2018-11-07 20:51:24
+*****************************************************
+Got connection from 10.10.20.40:59754
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:51:25
+10.10.20.40:59754 disconnected!
+Over connection time:2018-11-07 20:51:36
+*****************************************************
+Got connection from 10.10.20.40:59764
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:51:37
+10.10.20.40:59764 disconnected!
+Over connection time:2018-11-07 20:52:24
+*****************************************************
+Got connection from 10.10.20.40:59770
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:52:24
+10.10.20.40:59770 disconnected!
+Over connection time:2018-11-07 20:55:03
+*****************************************************
+Got connection from 10.10.20.40:59864
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:55:04
+10.10.20.40:59864 disconnected!
+Over connection time:2018-11-07 20:55:19
+*****************************************************
+Got connection from 10.10.20.40:59870
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:55:23
+10.10.20.40:59870 disconnected!
+Over connection time:2018-11-07 20:56:00
+*****************************************************
+Got connection from 10.10.20.40:59884
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:56:02
+10.10.20.40:59884 disconnected!
+Over connection time:2018-11-07 20:56:12
+*****************************************************
+Got connection from 10.10.20.40:59890
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:56:13
+10.10.20.40:59890 disconnected!
+Over connection time:2018-11-07 20:56:45
+*****************************************************
+Got connection from 10.10.20.40:59896
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:56:46
+10.10.20.40:59896 disconnected!
+Over connection time:2018-11-07 20:57:10
+*****************************************************
+Got connection from 10.10.20.40:59906
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:57:12
+10.10.20.40:59906 disconnected!
+Over connection time:2018-11-07 20:57:47
+*****************************************************
+Got connection from 10.10.20.40:59922
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:57:49
+10.10.20.40:59922 disconnected!
+Over connection time:2018-11-07 20:59:23
+*****************************************************
+Got connection from 10.10.20.40:59932
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:59:24
+10.10.20.40:59932 disconnected!
+Over connection time:2018-11-07 20:59:29
+*****************************************************
+Got connection from 10.10.20.40:59938
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 20:59:30
+Got connection from 10.10.20.40:60810
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:10:40
+Got connection from 10.10.20.40:60846
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:11:56
+10.10.20.40:60846 disconnected!
+Over connection time:2018-11-07 21:15:40
+*****************************************************
+Got connection from 10.10.20.40:32796
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:15:41
+10.10.20.40:32796 disconnected!
+Over connection time:2018-11-07 21:16:22
+*****************************************************
+Got connection from 10.10.20.40:32802
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:16:24
+10.10.20.40:32802 disconnected!
+Over connection time:2018-11-07 21:22:49
+*****************************************************
+Got connection from 10.10.20.40:33054
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:22:51
+10.10.20.40:33054 disconnected!
+Over connection time:2018-11-07 21:22:56
+*****************************************************
+Got connection from 10.10.20.40:33060
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:22:59
+10.10.20.40:33060 disconnected!
+Over connection time:2018-11-07 21:24:01
+*****************************************************
+Got connection from 10.10.20.40:33084
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:28:17
+10.10.20.40:33084 disconnected!
+Over connection time:2018-11-07 21:28:25
+*****************************************************
+Got connection from 10.10.20.40:33120
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:29:06
+10.10.20.40:33120 disconnected!
+Over connection time:2018-11-07 21:29:58
+*****************************************************
+Got connection from 10.10.20.40:33126
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:29:59
+10.10.20.40:33126 disconnected!
+Over connection time:2018-11-07 21:30:40
+*****************************************************
+Got connection from 10.10.20.40:33134
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:30:40
+10.10.20.40:33134 disconnected!
+Over connection time:2018-11-07 21:30:46
+*****************************************************
+Got connection from 10.10.20.40:33140
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:30:51
+10.10.20.40:33140 disconnected!
+Over connection time:2018-11-07 21:32:09
+*****************************************************
+Got connection from 10.10.20.40:33160
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:32:10
+10.10.20.40:33160 disconnected!
+Over connection time:2018-11-07 21:32:15
+*****************************************************
+Got connection from 10.10.20.40:33166
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:32:26
+10.10.20.40:33166 disconnected!
+Over connection time:2018-11-07 21:45:55
+*****************************************************
+Got connection from 10.10.20.40:33644
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:45:56
+10.10.20.40:33644 disconnected!
+Over connection time:2018-11-07 21:52:26
+*****************************************************
+Got connection from 10.10.20.40:33764
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:52:30
+10.10.20.40:33764 disconnected!
+Over connection time:2018-11-07 21:53:32
+*****************************************************
+Got connection from 10.10.20.40:33774
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:54:27
+10.10.20.40:33774 disconnected!
+Over connection time:2018-11-07 21:54:29
+*****************************************************
+Got connection from 10.10.20.40:33780
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:54:30
+10.10.20.40:33780 disconnected!
+Over connection time:2018-11-07 21:58:43
+*****************************************************
+Got connection from 10.10.20.40:34114
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:58:45
+10.10.20.40:34114 disconnected!
+Over connection time:2018-11-07 21:59:44
+*****************************************************
+Got connection from 10.10.20.40:34132
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 21:59:48
+10.10.20.40:34132 disconnected!
+Over connection time:2018-11-07 22:02:01
+*****************************************************
+Got connection from 10.10.20.40:34240
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:02:03
+10.10.20.40:34240 disconnected!
+Over connection time:2018-11-07 22:02:29
+*****************************************************
+Got connection from 10.10.20.40:34248
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:02:32
+10.10.20.40:34248 disconnected!
+Over connection time:2018-11-07 22:02:54
+*****************************************************
+Got connection from 10.10.20.40:34274
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:02:56
+10.10.20.40:34274 disconnected!
+Over connection time:2018-11-07 22:03:31
+*****************************************************
+Got connection from 10.10.20.40:34290
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:04:10
+10.10.20.40:34290 disconnected!
+Over connection time:2018-11-07 22:06:45
+*****************************************************
+Got connection from 10.10.20.40:34346
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:06:51
+10.10.20.40:34346 disconnected!
+Over connection time:2018-11-07 22:07:16
+*****************************************************
+Got connection from 10.10.20.40:34390
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:07:50
+10.10.20.40:34390 disconnected!
+Over connection time:2018-11-07 22:07:53
+*****************************************************
+Got connection from 10.10.20.40:34432
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:07:55
+10.10.20.40:34432 disconnected!
+Over connection time:2018-11-07 22:08:29
+*****************************************************
+Got connection from 10.10.20.40:34470
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:08:30
+10.10.20.40:34470 disconnected!
+Over connection time:2018-11-07 22:08:35
+*****************************************************
+Got connection from 10.10.20.40:34494
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:08:40
+10.10.20.40:34494 disconnected!
+Over connection time:2018-11-07 22:08:43
+*****************************************************
+Got connection from 10.10.20.40:34500
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:11:22
+10.10.20.40:34500 disconnected!
+Over connection time:2018-11-07 22:11:50
+*****************************************************
+Got connection from 10.10.20.40:34506
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:11:50
+10.10.20.40:34506 disconnected!
+Over connection time:2018-11-07 22:15:26
+*****************************************************
+Got connection from 10.10.20.40:34516
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-07 22:15:28
+10.10.20.40:34516 disconnected!
+Over connection time:2018-11-08 09:27:07
+*****************************************************
+Got connection from 10.10.20.40:36052
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 09:27:07
+10.10.20.40:36052 disconnected!
+Over connection time:2018-11-08 09:29:51
+*****************************************************
+Got connection from 10.10.20.40:36064
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 09:29:52
+10.10.20.40:36064 disconnected!
+Over connection time:2018-11-08 09:31:41
+*****************************************************
+Got connection from 10.10.20.40:36074
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 09:31:54
+10.10.20.40:36074 disconnected!
+Over connection time:2018-11-08 09:32:21
+*****************************************************
+Got connection from 10.10.20.40:36084
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 09:33:01
+10.10.20.40:36084 disconnected!
+Over connection time:2018-11-08 09:33:32
+*****************************************************
+Got connection from 10.10.20.40:36092
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 09:34:25
+10.10.20.40:36092 disconnected!
+Over connection time:2018-11-08 09:34:45
+*****************************************************
+Got connection from 10.10.20.40:36972
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 09:57:29
+10.10.20.40:36972 disconnected!
+Over connection time:2018-11-08 09:57:32
+*****************************************************
+Got connection from 10.10.20.40:38002
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:07:48
+10.10.20.40:38002 disconnected!
+Over connection time:2018-11-08 10:07:53
+*****************************************************
+Got connection from 10.10.20.40:38074
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:10:32
+10.10.20.40:38074 disconnected!
+Over connection time:2018-11-08 10:11:34
+*****************************************************
+Got connection from 10.10.20.40:38116
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:11:38
+10.10.20.40:38116 disconnected!
+Over connection time:2018-11-08 10:12:29
+*****************************************************
+Got connection from 10.10.20.40:38142
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:12:33
+10.10.20.40:38142 disconnected!
+Over connection time:2018-11-08 10:13:12
+*****************************************************
+Got connection from 10.10.20.40:38148
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:13:18
+10.10.20.40:38148 disconnected!
+Over connection time:2018-11-08 10:25:41
+*****************************************************
+Got connection from 10.10.20.40:38178
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:26:02
+10.10.20.40:38178 disconnected!
+Over connection time:2018-11-08 10:26:09
+*****************************************************
+Got connection from 10.10.20.40:38184
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:26:16
+10.10.20.40:38184 disconnected!
+Over connection time:2018-11-08 10:26:22
+*****************************************************
+Got connection from 10.10.20.40:38278
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:28:29
+10.10.20.40:38278 disconnected!
+Over connection time:2018-11-08 10:33:28
+*****************************************************
+Got connection from 10.10.20.40:38462
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:33:29
+10.10.20.40:38462 disconnected!
+Over connection time:2018-11-08 10:36:04
+*****************************************************
+Got connection from 10.10.20.40:38492
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:36:05
+10.10.20.40:38492 disconnected!
+Over connection time:2018-11-08 10:36:13
+*****************************************************
+Got connection from 10.10.20.40:38554
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:39:39
+10.10.20.40:38554 disconnected!
+Over connection time:2018-11-08 10:40:15
+*****************************************************
+Got connection from 10.10.20.40:38560
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:40:16
+10.10.20.40:38560 disconnected!
+Over connection time:2018-11-08 10:42:57
+*****************************************************
+Got connection from 10.10.20.40:38580
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:42:59
+10.10.20.40:38580 disconnected!
+Over connection time:2018-11-08 10:44:31
+*****************************************************
+Got connection from 10.10.20.40:38596
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:44:53
+10.10.20.40:38596 disconnected!
+Over connection time:2018-11-08 10:46:48
+*****************************************************
+Got connection from 10.10.20.40:38602
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:47:08
+10.10.20.40:38602 disconnected!
+Over connection time:2018-11-08 10:47:14
+*****************************************************
+Got connection from 10.10.20.40:38732
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:48:08
+10.10.20.40:38732 disconnected!
+Over connection time:2018-11-08 10:48:12
+*****************************************************
+Got connection from 10.10.20.40:38738
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:48:32
+10.10.20.40:38738 disconnected!
+Over connection time:2018-11-08 10:50:45
+*****************************************************
+Got connection from 10.10.20.40:38902
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:50:47
+10.10.20.40:38902 disconnected!
+Over connection time:2018-11-08 10:50:51
+*****************************************************
+Got connection from 10.10.20.40:38920
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:52:19
+10.10.20.40:38920 disconnected!
+Over connection time:2018-11-08 10:53:10
+*****************************************************
+Got connection from 10.10.20.40:38936
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:54:01
+10.10.20.40:38936 disconnected!
+Over connection time:2018-11-08 10:54:05
+*****************************************************
+Got connection from 10.10.20.40:38960
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:55:36
+10.10.20.40:38960 disconnected!
+Over connection time:2018-11-08 10:55:45
+*****************************************************
+Got connection from 10.10.20.40:38966
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:56:02
+10.10.20.40:38966 disconnected!
+Over connection time:2018-11-08 10:56:14
+*****************************************************
+Got connection from 10.10.20.40:38972
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:56:22
+10.10.20.40:38972 disconnected!
+Over connection time:2018-11-08 10:58:18
+*****************************************************
+Got connection from 10.10.20.40:38982
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:58:34
+10.10.20.40:38982 disconnected!
+Over connection time:2018-11-08 10:59:08
+*****************************************************
+Got connection from 10.10.20.40:38988
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 10:59:15
+10.10.20.40:38988 disconnected!
+Over connection time:2018-11-08 10:59:28
+*****************************************************
+Got connection from 10.10.20.40:38994
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 11:00:59
+10.10.20.40:38994 disconnected!
+Over connection time:2018-11-08 11:01:51
+*****************************************************
+Got connection from 10.10.20.40:39000
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 11:01:52
+10.10.20.40:39000 disconnected!
+Over connection time:2018-11-08 11:02:02
+*****************************************************
+Got connection from 10.10.20.40:39008
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 11:02:45
+10.10.20.40:39008 disconnected!
+Over connection time:2018-11-08 11:56:59
+*****************************************************
+Got connection from 10.10.20.40:56730
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-08 21:52:04
+Got connection from 10.10.20.40:55734
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-09 20:23:38
+Got connection from 10.10.20.40:51014
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-10 22:08:26
+10.10.20.40:51014 disconnected!
+Over connection time:2018-11-11 09:37:28
+*****************************************************
+Got connection from 10.10.20.40:51452
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-11 09:37:33
+10.10.20.40:51452 disconnected!
+Over connection time:2018-11-11 09:37:36
+*****************************************************
+Got connection from 10.10.20.40:32780
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-14 22:05:01
+10.10.20.40:32780 disconnected!
+Over connection time:2018-11-15 09:21:52
+*****************************************************
+connect to 10.10.20.40:7999 successful!
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 18:28:04
+10.10.20.40:7999 disconnected!
+Over connection time:2018-11-16 18:28:49
+*****************************************************
+Got connection from 10.10.20.40:43610
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 18:47:22
+10.10.20.40:43610 disconnected!
+Over connection time:2018-11-16 18:55:41
+*****************************************************
+Got connection from 10.10.20.40:41544
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 20:33:16
+Got connection from 10.10.20.40:41558
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 20:33:50
+10.10.20.40:41558 disconnected!
+Over connection time:2018-11-16 20:33:59
+*****************************************************
+Got connection from 10.10.20.40:41564
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 20:34:04
+10.10.20.40:41564 disconnected!
+Over connection time:2018-11-16 20:34:55
+*****************************************************
+Got connection from 10.10.20.40:41986
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 20:47:34
+10.10.20.40:41986 disconnected!
+Over connection time:2018-11-16 20:47:51
+*****************************************************
+Got connection from 10.10.20.40:42000
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-16 20:48:02
+10.10.20.40:42000 disconnected!
+Over connection time:2018-11-16 20:48:47
+*****************************************************
+Got connection from 10.10.20.40:48092
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-17 09:20:58
+10.10.20.40:48092 disconnected!
+Over connection time:2018-11-17 09:21:29
+*****************************************************
+Got connection from 10.10.20.40:48108
+Resolution:640 * 480
+Camera open successfully!
+Start connection time:2018-11-17 09:22:11
+10.10.20.40:48108 disconnected!
+Over connection time:2018-11-17 09:22:41
+*****************************************************

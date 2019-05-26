@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4c66c2ad-e9c2-43d3-8528-e3342a2dac24" name="10.10.20.124" url="http://10.10.20.124">
+        <fileTransfer host="10.10.20.124" port="22" rootFolder="/home/abc/Desktop/WebCamera" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
